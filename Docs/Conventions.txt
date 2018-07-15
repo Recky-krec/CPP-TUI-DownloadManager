@@ -1,0 +1,19 @@
+I will mark here my conventions.
+
+Interfaces: IAnimation
+Classes: FileSystemHandler
+    Methods: GetHandlerPtr()
+    Private Members: m_filePath;
+    Public Members: FilePath;
+    Static Members: s_filePath;
+    Pointers: mp_filePath, pFilePath, sp_filePath
+
+Variables: varName;
+    Pointers: pVarName;
+
+
+Namespaces: crank, graphics, sys
+
+Macros: MY_MACRO, YOUR_MACRO_THERE
+
+Functions: MyFunctionCall()

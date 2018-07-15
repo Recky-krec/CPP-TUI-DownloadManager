@@ -1,0 +1,3 @@
+Most download managers come with a features like video and audio grabbing from popular sites like YouTube etc., They also support website grabbing. Queue processing is another important feature of download managers. They also have the ability to pause and resume downloads, and impose speed restrictions as well. This features come very useful in regions where power failures are frequent. Additionally, most of the commercial download managers can download following user planned schedules and download accordingly. A few download managers claim to increase the download speed by a factor of many times.
+
+Download managers also have very tight integration with browsers. Mostly they do this by installing an extension to the user's browser. 

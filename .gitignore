@@ -1,2 +1,4 @@
 .git/
 Build/
+cmake-build-debug/
+.idea/
